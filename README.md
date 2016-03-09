@@ -7,3 +7,5 @@ When making changes:
   3. Pull updates from the Master branch to ensure your feature works with the latest build.
   4. Test your feature using the latest build.
   5. Merge your branch with the Master branch.
+
+If you need someone elses work to do your own, both of you should work in the same branch so you can update on the fly and use the other persons code without waiting for them to update the master branch.
